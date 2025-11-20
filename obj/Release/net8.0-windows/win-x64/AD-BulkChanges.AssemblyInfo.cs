@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AD-BulkChanges")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fab92c3b98e93e397b7d32755aecf777dd2a3252")]
 [assembly: System.Reflection.AssemblyProductAttribute("AD-BulkChanges")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AD-BulkChanges")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

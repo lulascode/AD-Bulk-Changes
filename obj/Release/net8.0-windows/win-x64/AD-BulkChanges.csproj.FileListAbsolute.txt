@@ -478,6 +478,7 @@ C:\Git\AD-Bulk-Changes\obj\Release\net8.0-windows\win-x64\AD-BulkChanges.Generat
 C:\Git\AD-Bulk-Changes\obj\Release\net8.0-windows\win-x64\AD-BulkChanges.AssemblyInfoInputs.cache
 C:\Git\AD-Bulk-Changes\obj\Release\net8.0-windows\win-x64\AD-BulkChanges.AssemblyInfo.cs
 C:\Git\AD-Bulk-Changes\obj\Release\net8.0-windows\win-x64\AD-BulkChanges.csproj.CoreCompileInputs.cache
+C:\Git\AD-Bulk-Changes\obj\Release\net8.0-windows\win-x64\AD-BulkChanges.sourcelink.json
 C:\Git\AD-Bulk-Changes\obj\Release\net8.0-windows\win-x64\AD-BulkC.752CE658.Up2Date
 C:\Git\AD-Bulk-Changes\obj\Release\net8.0-windows\win-x64\AD-BulkChanges.dll
 C:\Git\AD-Bulk-Changes\obj\Release\net8.0-windows\win-x64\refint\AD-BulkChanges.dll
