@@ -1,0 +1,2 @@
+C:\Git\AD-Bulk-Changes\bin\Release\net8.0-windows\win-x64\publish\AD-BulkChanges.pdb
+C:\Git\AD-Bulk-Changes\bin\Release\net8.0-windows\win-x64\publish\AD-BulkChanges.exe
